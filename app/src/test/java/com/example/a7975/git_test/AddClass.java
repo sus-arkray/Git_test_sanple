@@ -7,5 +7,5 @@ public class AddClass {
     //テストで色々コメントを追加してみる
 
 
-    //branchのテスト
+    //branchのテスト　２回目テスト
 }
