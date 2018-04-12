@@ -14,6 +14,8 @@ import android.view.View;
  * status bar and navigation/system bar) with user interaction.
  */
 public class FullscreenActivity extends AppCompatActivity {
+
+
     /**
      * Whether or not the system UI should be auto-hidden after
      * {@link #AUTO_HIDE_DELAY_MILLIS} milliseconds.
@@ -160,5 +162,16 @@ public class FullscreenActivity extends AppCompatActivity {
     private void delayedHide(int delayMillis) {
         mHideHandler.removeCallbacks(mHideRunnable);
         mHideHandler.postDelayed(mHideRunnable, delayMillis);
+
+        //Androidstudioか変更しています
+        int a = 0;
+        boolean flg = false;
+        if(flg){
+            a = -999;
+        }
+        //--------------------------
+
+
+
     }
 }
