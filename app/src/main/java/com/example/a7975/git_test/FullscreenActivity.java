@@ -169,8 +169,13 @@ public class FullscreenActivity extends AppCompatActivity {
         if(flg){
             a = -999;
         }
+ 
+        if(a == 0){}
+        else  if(a == 1){}
+        
+        
         //--------------------------
-
+        
 
 
     }
