@@ -170,6 +170,7 @@ public class FullscreenActivity extends AppCompatActivity {
             a = -999;
         }
 
+        //MergeのテストAndroidstudioか変更しています
         if(a == 0){a = 100;}
         else  if(a == 1){}
         else  if(a == 2){}
