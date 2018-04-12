@@ -173,10 +173,9 @@ public class FullscreenActivity extends AppCompatActivity {
         //MergeのテストAndroidstudioか変更しています
         if(a == 0){a = 100;}
         else  if(a == 1){}
-        else  if(a == 2){}
-
+        //Android Stadioを優先しました
         //--------------------------
-
+        
 
 
     }
