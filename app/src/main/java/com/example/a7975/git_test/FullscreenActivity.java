@@ -169,10 +169,11 @@ public class FullscreenActivity extends AppCompatActivity {
         if(flg){
             a = -999;
         }
-        //マスターを変更しました
-        if(a == 0){}
-        else  if(a == 1){}
 
+        //MergeのテストAndroidstudioか変更しています
+        if(a == 0){a = 100;}
+        else  if(a == 1){}
+        //Android Stadioを優先しました
         //--------------------------
         
 
