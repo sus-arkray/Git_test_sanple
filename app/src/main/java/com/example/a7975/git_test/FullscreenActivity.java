@@ -169,13 +169,13 @@ public class FullscreenActivity extends AppCompatActivity {
         if(flg){
             a = -999;
         }
-
+        //AndroidStadio のを優先
         if(a == 0){a = 100;}
         else  if(a == 1){}
         else  if(a == 2){}
 
         //--------------------------
-
+        
 
 
     }
